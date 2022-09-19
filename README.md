@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://interative)
+- Live Site URL: [Interactive Card Detail Form](https://mentor-interative-card.netlify.app)
 
 ## My process
 
@@ -68,4 +68,4 @@ Learnt more about how css grid can be very useful in a site layout and how it ca
 - Website - [Michael Ajayi](https://michael-a.netlify.app)
 - Frontend Mentor - [@michaelajayi150](https://www.frontendmentor.io/profile/michaelajayi150)
 - Twitter - [@michaelajayi150](https://www.twitter.com/michaelajayi150)
-- LinkedIn - [@michael-ajayi]
+- LinkedIn - [@ajayi-michael-692bb6203](https://www.linkedin.com/in/ajayi-michael-692bb6203/)
