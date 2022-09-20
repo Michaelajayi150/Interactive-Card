@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/interactive-card-detail-with-css-grid-omwJMv_9Op)
+- Solution URL: ![](https://www.frontendmentor.io/solutions/interactive-card-detail-with-css-grid-omwJMv_9Op)
 - Live Site URL: [Interactive Card Detail Form](https://mentor-interative-card.netlify.app)
 
 ## My process
